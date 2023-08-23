@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "1016162573405",
+    "project_id": "drivethruu-b5d66",
+    "storage_bucket": "drivethruu-b5d66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016162573405:android:57bd2c7777f4f3008fc1b4",
+        "android_client_info": {
+          "package_name": "com.dinethru.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016162573405-siea78sfetld8uiedt2q85qqjnufr7a5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dinethru.app",
+            "certificate_hash": "7c4c5ade81cc266138dcb9c59b24600cb9b0b088"
+          }
+        },
+        {
+          "client_id": "1016162573405-pc120tus90rq1i00p2ej61u51t4nkdim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrEZYscoBKyMc6BCF5JLBnD9g6aWKaSv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016162573405-pc120tus90rq1i00p2ej61u51t4nkdim.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1016162573405-a0jifmia41i574lhfmuhs8kn7sm142ae.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dinethru.userapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016162573405:android:af7e0edc64dd987a8fc1b4",
+        "android_client_info": {
+          "package_name": "com.dinethru.shopapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016162573405-0dk6fdtfk8a0mdu556rvqa68e9o7remk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dinethru.shopapp",
+            "certificate_hash": "20fec522226db9230278468707b04a5a5364122c"
+          }
+        },
+        {
+          "client_id": "1016162573405-22iafrd37hvbalkob9htcret4b667tov.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dinethru.shopapp",
+            "certificate_hash": "7c4c5ade81cc266138dcb9c59b24600cb9b0b088"
+          }
+        },
+        {
+          "client_id": "1016162573405-pc120tus90rq1i00p2ej61u51t4nkdim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrEZYscoBKyMc6BCF5JLBnD9g6aWKaSv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016162573405-pc120tus90rq1i00p2ej61u51t4nkdim.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1016162573405-a0jifmia41i574lhfmuhs8kn7sm142ae.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dinethru.userapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
