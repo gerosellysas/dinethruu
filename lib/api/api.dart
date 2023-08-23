@@ -1,5 +1,7 @@
+import 'package:flutter_dotenv/flutter_dotenv.dart';
+
 class Api {
-  static const baseUrl = 'https://drivethruu-api-dev.azurewebsites.net/api';
+  static const baseUrl = dotenv.env['API_URL']!;
 
   // profile ====================================
   static String profile() {
